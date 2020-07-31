@@ -1,0 +1,8 @@
+.Sidebar {
+  background-color: #248bcc;
+}
+@media (max-width: 1000px) {
+  .Sidebar {
+    display: none;
+  }
+}
