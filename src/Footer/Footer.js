@@ -6,7 +6,9 @@ class Quotes extends Component {
   }
 
   render() {
-    return <div className="Footer">Footer</div>;
+    return (
+      <div className="Footer">Designed and developed by Anthony Sedov</div>
+    );
   }
 }
 
